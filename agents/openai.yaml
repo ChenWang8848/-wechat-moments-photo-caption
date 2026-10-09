@@ -1,0 +1,4 @@
+interface:
+  display_name: "朋友圈照片配文"
+  short_description: "根据单张或整组照片生成朋友圈配文，具体自然、温暖灵动，带一点文学感"
+  default_prompt: "使用 $wechat-moments-photo-caption，为我提供的照片写一条适合朋友圈发布的中文配文。"
